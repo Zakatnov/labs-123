@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        Count files in /etc directory
 Group:          Applications/System
 License:        GPL
-URL:            https://github.com/Zakatnov/Labs
+URL:            https://github.com/Zakatnov/Labs-123
 Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 
